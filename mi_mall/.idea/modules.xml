@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Cursel_Ad/Cursel_Ad.iml" filepath="$PROJECT_DIR$/Cursel_Ad/Cursel_Ad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GateWay/GateWay.iml" filepath="$PROJECT_DIR$/GateWay/GateWay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GeiSide/GeiSide.iml" filepath="$PROJECT_DIR$/GeiSide/GeiSide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Login_Submit/Login_Submit.iml" filepath="$PROJECT_DIR$/Login_Submit/Login_Submit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PullList/PullList.iml" filepath="$PROJECT_DIR$/PullList/PullList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mi_mall.iml" filepath="$PROJECT_DIR$/mi_mall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopcar/shopcar.iml" filepath="$PROJECT_DIR$/shopcar/shopcar.iml" />
+    </modules>
+  </component>
+</project>

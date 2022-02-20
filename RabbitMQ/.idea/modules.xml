@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dead_Letter/Dead_Letter.iml" filepath="$PROJECT_DIR$/Dead_Letter/Dead_Letter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Death_Letter_Retest/Death_Letter_Retest.iml" filepath="$PROJECT_DIR$/Death_Letter_Retest/Death_Letter_Retest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Death_leatter_Retest2/Death_leatter_Retest2.iml" filepath="$PROJECT_DIR$/Death_leatter_Retest2/Death_leatter_Retest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DelayBySocket/DelayBySocket.iml" filepath="$PROJECT_DIR$/DelayBySocket/DelayBySocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DelayBySocketRetest/DelayBySocketRetest.iml" filepath="$PROJECT_DIR$/DelayBySocketRetest/DelayBySocketRetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FanOut/FanOut.iml" filepath="$PROJECT_DIR$/FanOut/FanOut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Handle_Anser/Handle_Anser.iml" filepath="$PROJECT_DIR$/Handle_Anser/Handle_Anser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LastRetest/LastRetest.iml" filepath="$PROJECT_DIR$/LastRetest/LastRetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MQ_SPRINGBOOT/MQ_SPRINGBOOT.iml" filepath="$PROJECT_DIR$/MQ_SPRINGBOOT/MQ_SPRINGBOOT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Note/Note.iml" filepath="$PROJECT_DIR$/Note/Note.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RabbitMQ-Hello/RabbitMQ-Hello.iml" filepath="$PROJECT_DIR$/RabbitMQ-Hello/RabbitMQ-Hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Single_Confirm/Single_Confirm.iml" filepath="$PROJECT_DIR$/Single_Confirm/Single_Confirm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Topic/Topic.iml" filepath="$PROJECT_DIR$/Topic/Topic.iml" />
+    </modules>
+  </component>
+</project>

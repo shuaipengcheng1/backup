@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Cursel_Ad/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Cursel_Ad/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GateWay/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GateWay/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GeiSide/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GeiSide/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Login_Submit/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Login_Submit/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PullList/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PullList/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopcar/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopcar/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

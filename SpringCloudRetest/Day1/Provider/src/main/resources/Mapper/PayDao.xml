@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.misaka.provider.Dao.PayDao">
+  <insert id="Create">
+   INSERT into payment (id,String) values (#{id},#{Detail});
+  </insert>
+    <resultMap id="Pay" type="com.misaka.Domain.Pay">
+        <result column="String" property="Detail" ></result>
+        <result column="id" property="id" ></result>
+
+    </resultMap>
+    <select id="SelectPaytById" resultMap="Pay">
+   SELECT * FROM  payment where id = #{id};
+    </select>
+</mapper>

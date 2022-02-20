@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="RabbitMQ-Hello" />
+        <module name="Dead_Letter" />
+        <module name="FanOut" />
+        <module name="MQ_SPRINGBOOT" />
+        <module name="Death_Letter_Retest" />
+        <module name="LastRetest" />
+        <module name="Death_leatter_Retest2" />
+        <module name="DelayBySocket" />
+        <module name="Note" />
+        <module name="Single_Confirm" />
+        <module name="Handle_Anser" />
+        <module name="Topic" />
+        <module name="DelayBySocketRetest" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Dead_Letter" target="8" />
+      <module name="Death_leatter_Retest2" target="8" />
+      <module name="Death_Letter_Retest" target="8" />
+      <module name="DelayBySocket" target="1.8" />
+      <module name="DelayBySocketRetest" target="1.8" />
+      <module name="FanOut" target="8" />
+      <module name="Handle_Anser" target="8" />
+      <module name="LastRetest" target="1.8" />
+      <module name="MQ_SPRINGBOOT" target="1.8" />
+      <module name="Note" target="1.5" />
+      <module name="RabbitMQ-Hello" target="8" />
+      <module name="Single_Confirm" target="8" />
+      <module name="Topic" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="DelayBySocket" options="-parameters" />
+      <module name="DelayBySocketRetest" options="-parameters" />
+      <module name="LastRetest" options="-parameters" />
+      <module name="MQ_SPRINGBOOT" options="-parameters" />
+    </option>
+  </component>
+</project>

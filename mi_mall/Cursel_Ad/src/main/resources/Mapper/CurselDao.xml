@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.mi.cursel_ad.Dao.CurselDao">
+    <select id="getCursel" resultType="com.mi.cursel_ad.Domain.Cursel">
+        select *
+        from cursel
+  </select>
+  <select id="getCurselAd" resultType="com.mi.cursel_ad.Domain.Cursel">
+    select *
+    from couselad
+  </select>
+  <select id="getAd" resultType="com.mi.cursel_ad.Domain.Cursel">
+    select *
+    from ad
+  </select>
+</mapper>

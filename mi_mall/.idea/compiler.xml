@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="GeiSide" />
+        <module name="Cursel_Ad" />
+        <module name="Login_Submit" />
+        <module name="shopcar" />
+        <module name="PullList" />
+        <module name="GateWay" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Cursel_Ad" target="8" />
+      <module name="GateWay" target="8" />
+      <module name="GeiSide" target="8" />
+      <module name="Login_Submit" target="8" />
+      <module name="mi_mall" target="8" />
+      <module name="PullList" target="8" />
+      <module name="shopcar" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Cursel_Ad" options="" />
+      <module name="GateWay" options="" />
+      <module name="GeiSide" options="" />
+      <module name="Login_Submit" options="" />
+      <module name="PullList" options="" />
+      <module name="shopcar" options="" />
+    </option>
+  </component>
+</project>

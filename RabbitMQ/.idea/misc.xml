@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Note/pom.xml" />
+        <option value="$PROJECT_DIR$/RabbitMQ-Hello/pom.xml" />
+        <option value="$PROJECT_DIR$/Handle_Anser/pom.xml" />
+        <option value="$PROJECT_DIR$/Single_Confirm/pom.xml" />
+        <option value="$PROJECT_DIR$/FanOut/pom.xml" />
+        <option value="$PROJECT_DIR$/Topic/pom.xml" />
+        <option value="$PROJECT_DIR$/Dead_Letter/pom.xml" />
+        <option value="$PROJECT_DIR$/Death_Letter_Retest/pom.xml" />
+        <option value="$PROJECT_DIR$/Death_leatter_Retest2/pom.xml" />
+        <option value="$PROJECT_DIR$/MQ_SPRINGBOOT/pom.xml" />
+        <option value="$PROJECT_DIR$/DelayBySocket/pom.xml" />
+        <option value="$PROJECT_DIR$/DelayBySocketRetest/pom.xml" />
+        <option value="$PROJECT_DIR$/LastRetest/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

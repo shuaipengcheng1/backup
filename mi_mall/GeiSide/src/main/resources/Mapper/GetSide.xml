@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.mi.geiside.Dao.GetSide">
+    <select id="getPhone" resultType="com.mi.geiside.Domain.SideGoods">
+        select *
+        from phone
+  </select>
+    <select id="getTv" resultType="com.mi.geiside.Domain.SideGoods">
+        select *
+        from tv
+    </select>
+    <select id="getLapTopPad" resultType="com.mi.geiside.Domain.SideGoods">
+        select *
+        from laptoppad
+    </select>
+    <select id="getJiaDian" resultType="com.mi.geiside.Domain.SideGoods">
+        select *
+        from jiadian
+    </select>
+    <select id="getAiRouter" resultType="com.mi.geiside.Domain.SideGoods">
+        select *
+        from airouter
+    </select>
+    <select id="getBattery" resultType="com.mi.geiside.Domain.SideGoods">
+        select *
+        from battery
+    </select>
+    <select id="getHealthChildren" resultType="com.mi.geiside.Domain.SideGoods">
+        select *
+        from healthchild
+    </select>
+    <select id="getEarPhone" resultType="com.mi.geiside.Domain.SideGoods">
+        select *
+        from earphone
+    </select>
+    <select id="getLiveBag" resultType="com.mi.geiside.Domain.SideGoods">
+        select *
+        from livebag
+    </select>
+    <select id="getOutSideWear" resultType="com.mi.geiside.Domain.SideGoods">
+        select *
+        from outsidewear
+    </select>
+</mapper>

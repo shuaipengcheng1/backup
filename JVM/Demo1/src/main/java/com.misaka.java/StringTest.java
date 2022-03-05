@@ -19,5 +19,14 @@ public class StringTest {
         stringTest.Exchange(stringTest.str, stringTest.c);
         System.out.println(stringTest.str); //hello
         System.out.println(stringTest.c); //best
+        x();
+    }
+
+    public static void x(){
+     String  s = new String("1")+new String("1");
+     s.intern();
+     String s1 = "11";
+     System.out.println(s1==s);
+
     }
 }

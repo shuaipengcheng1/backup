@@ -10,10 +10,19 @@ public class UserGC {
 //    -XX:+UseConcMarkSweepGC(并发) 启用CMS
 //    -XX:+UseG1GC(并发 分区算法 堆区综合回收)
 public static void main(String[] args) {
+    int[][] arr = new int[5][6];
+    int[][] arr2 = {{12},{1}};
+    for (int i = 0; i <arr.length ; i++) {
+        for (int j = 0; j < arr[0].length; j++) {
+            System.out.println(arr[i][j]);
+
+        }
+    }
     try {
         Thread.sleep(10000000);
     } catch (InterruptedException e) {
         e.printStackTrace();
     }
+
 }
 }

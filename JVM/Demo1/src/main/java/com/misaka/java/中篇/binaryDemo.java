@@ -6,4 +6,5 @@ public class binaryDemo {
         num=num+1;
         return  num;
     }
+
 }

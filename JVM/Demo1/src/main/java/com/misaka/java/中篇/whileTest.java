@@ -6,5 +6,6 @@ public class whileTest {
         while (i<100){
             i++;
         }
+
     }
 }

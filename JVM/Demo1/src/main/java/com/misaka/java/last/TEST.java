@@ -7,4 +7,7 @@ public class TEST {
         Scanner scanner = new Scanner(System.in);
         scanner.next();
     }
+    public void hot(){
+        System.out.println("hot");
+    }
 }

@@ -9,9 +9,9 @@ public class ClassLoaderTest {
     public static void main(String[] args) {
         //    测试自定义类
         String url ="D:\\IdeaProject\\JVM\\Demo1\\src\\main\\java\\com\\misaka\\java\\last\\";
-        ClassLoaderRetest classLoaderRetest =new ClassLoaderRetest(url);
+        ClassLoderSelfTest classLoderSelfTest = new ClassLoderSelfTest(url);
         try {
-          Class cl=  classLoaderRetest.findClass("TEST");
+          Class cl=  classLoderSelfTest.findClass("TEST");
             try {
                 //          反射机制
                 Object o=   cl.newInstance();

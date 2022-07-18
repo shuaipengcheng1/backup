@@ -8,17 +8,19 @@ public class Extend {
 
             this.id=10;
         }
+
         public void Say(){
 
             System.out.println("Father say"+id);
         }
     }
    static  class Son extends Father{
-        int id=20;
+        int id=20; // Son类 经历了完整的类加载阶段 所以链接阶段
         public Son(){
             this.Say();
             this.id=10;
         }
+
         @Override
         public void Say() {
             System.out.println("Son Say"+id);

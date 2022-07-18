@@ -5,7 +5,141 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd9eafa-3965-4989-9a91-2ad685de1102" name="默认变更列表" comment="">
-      <change beforePath="$PROJECT_DIR$/../JVM/笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/../JVM/笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_61.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_62.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_63.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_65.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_67.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_68.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_69.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_71.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_73.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_74.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_75.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_77.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_78.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_79.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/img_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/Async_Queue/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/AtomicStampRefrenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/Balking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/BalkingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/CAS_New.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/CAS_Retest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/CAS_TEST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/CAS_mind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/ConcureentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/DeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/Double_Check_Lock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/FutureTaskTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/InterruptTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/InterruptTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/Interrupt_Stop_Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/JiaoTI_Shuchu3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/JiaoTi_ShuChu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/JiaoTi_Shuchu2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/JoinTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/LiveLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/LocalVar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/MutiLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/ParkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/PoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/Product_Constmer/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/Product_Constomer_MainTain/MiddleWear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/Product_Constomer_MainTain/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/ReentrantLockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/ReentrantLock_MutilWaitSet/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/ReentrantLock_MutilWaitSet/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/ReentrantLock_MutilWaitSet/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/Reference_CAS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/SellTicketTest/SellTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/SellTicketTest/SellWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/ThreadSafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/ThreadSafe_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/ThreadSafe_OOP/Goods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/ThreadSafe_OOP/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/ThreadSafe_OOP/XiaoHong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/ThreadSafe_OOP/XiaoMing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/Unsafe_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/WaitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/WaitTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/Wait_Notify/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/t.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/可见性测试.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/misaka/统筹规划.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC/笔记.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JVM/Demo1/src/main/java/com.misaka.java/Extend.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JVM/Demo1/src/main/java/com.misaka.java/Extend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JVM/Demo1/target/classes/com/misaka/java/Extend$Father.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JVM/Demo1/target/classes/com/misaka/java/Extend$Father.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JVM/Demo1/target/classes/com/misaka/java/Extend$Son.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JVM/Demo1/target/classes/com/misaka/java/Extend$Son.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JVM/Demo1/target/classes/com/misaka/java/Extend.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JVM/Demo1/target/classes/com/misaka/java/Extend.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JVM/Demo1/target/classes/com/misaka/java/last/DeadLock_Last$Credit_Card.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JVM/Demo1/target/classes/com/misaka/java/last/DeadLock_Last$Credit_Card.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JVM/Demo1/target/classes/com/misaka/java/last/DeadLock_Last.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JVM/Demo1/target/classes/com/misaka/java/last/DeadLock_Last.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -167,6 +301,11 @@
       <workItem from="1645856592291" duration="33000" />
       <workItem from="1646189227156" duration="796000" />
       <workItem from="1646555894246" duration="72000" />
+      <workItem from="1651643558949" duration="123000" />
+      <workItem from="1651644451102" duration="1148000" />
+      <workItem from="1651646375829" duration="28000" />
+      <workItem from="1651648839456" duration="80000" />
+      <workItem from="1657427367366" duration="154000" />
     </task>
     <servers />
   </component>
